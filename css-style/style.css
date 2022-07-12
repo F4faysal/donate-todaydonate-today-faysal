@@ -96,3 +96,88 @@ hr {
   padding-left: 45%;
   margin-bottom: 100px;
 }
+.Donate-Plan {
+  display: flex;
+}
+.Donate-Plan-item {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+.Donate-Plan-item-color {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  background-color: antiquewhite;
+}
+#depend-donation {
+  font-size: 40px;
+  font-weight: bold;
+}
+.depend-donation {
+  font-size: 18px;
+}
+
+.box-donation {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+input[type="email"],
+select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.input-box {
+  margin-left: 25%;
+  margin-right: 25%;
+
+  padding: 100px;
+  margin-top: 5px;
+  margin-bottom: 100px;
+  background-color: antiquewhite;
+}
+.Subscribe-button {
+  text-decoration: none;
+  padding: 12px 20px;
+  background-color: red;
+  color: rgb(255, 255, 255);
+  font-weight: 700px;
+  border-radius: 5px;
+  border: 0px;
+  margin-left: -8px;
+}
+.position-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.pooter-humbel {
+  background-color: black;
+  text-align: center;
+  margin: 0;
+  padding: 5px 5px 5px 5px;
+}
+footer h1 {
+  color: rgb(206, 28, 28);
+}
+footer p {
+  color: azure;
+}
